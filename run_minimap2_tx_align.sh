@@ -1,0 +1,15 @@
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-1700.fastq.gz | samtools view -bh | samtools sort -o 7316-1700.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-2227.fastq.gz | samtools view -bh | samtools sort -o 7316-2227.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-2252.fastq.gz | samtools view -bh | samtools sort -o 7316-2252.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-2322.fastq.gz | samtools view -bh | samtools sort -o 7316-2322.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-2700.fastq.gz | samtools view -bh | samtools sort -o 7316-2700.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-3510.fastq.gz | samtools view -bh | samtools sort -o 7316-3510.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-438.fastq.gz | samtools view -bh | samtools sort -o 7316-438.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-489.fastq.gz | samtools view -bh | samtools sort -o 7316-489.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-670.fastq.gz | samtools view -bh | samtools sort -o 7316-670.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-737.fastq.gz | samtools view -bh | samtools sort -o 7316-737.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-906.fastq.gz | samtools view -bh | samtools sort -o 7316-906.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa 7316-922.fastq.gz | samtools view -bh | samtools sort -o 7316-922.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa N_4390.fastq.gz | samtools view -bh | samtools sort -o N_4390.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa N_6321.fastq.gz | samtools view -bh | samtools sort -o N_6321.hg38.tx.bam
+minimap2 -ax map-ont -t 40 -p 0 -N 20 ~/ref/hg38.k63.cdna.fa N_8009.fastq.gz | samtools view -bh | samtools sort -o N_8009.hg38.tx.bam
