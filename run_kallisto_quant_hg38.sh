@@ -1,0 +1,15 @@
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-1700_kallisto_hg38_k63/flens.txt 7316-1700_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-1700_kallisto_hg38_k63/count.ec.txt -o 7316-1700_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-2227_kallisto_hg38_k63/flens.txt 7316-2227_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-2227_kallisto_hg38_k63/count.ec.txt -o 7316-2227_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-2252_kallisto_hg38_k63/flens.txt 7316-2252_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-2252_kallisto_hg38_k63/count.ec.txt -o 7316-2252_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-2322_kallisto_hg38_k63/flens.txt 7316-2322_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-2322_kallisto_hg38_k63/count.ec.txt -o 7316-2322_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-2700_kallisto_hg38_k63/flens.txt 7316-2700_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-2700_kallisto_hg38_k63/count.ec.txt -o 7316-2700_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-3510_kallisto_hg38_k63/flens.txt 7316-3510_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-3510_kallisto_hg38_k63/count.ec.txt -o 7316-3510_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-438_kallisto_hg38_k63/flens.txt 7316-438_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-438_kallisto_hg38_k63/count.ec.txt -o 7316-438_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-489_kallisto_hg38_k63/flens.txt 7316-489_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-489_kallisto_hg38_k63/count.ec.txt -o 7316-489_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-670_kallisto_hg38_k63/flens.txt 7316-670_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-670_kallisto_hg38_k63/count.ec.txt -o 7316-670_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-737_kallisto_hg38_k63/flens.txt 7316-737_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-737_kallisto_hg38_k63/count.ec.txt -o 7316-737_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-906_kallisto_hg38_k63/flens.txt 7316-906_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-906_kallisto_hg38_k63/count.ec.txt -o 7316-906_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f 7316-922_kallisto_hg38_k63/flens.txt 7316-922_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e 7316-922_kallisto_hg38_k63/count.ec.txt -o 7316-922_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f N_4390_kallisto_hg38_k63/flens.txt N_4390_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e N_4390_kallisto_hg38_k63/count.ec.txt -o N_4390_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f N_6321_kallisto_hg38_k63/flens.txt N_6321_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e N_6321_kallisto_hg38_k63/count.ec.txt -o N_6321_kallisto_hg38_k63
+kallisto quant-tcc -t 40 --long -P ONT -f N_8009_kallisto_hg38_k63/flens.txt N_8009_kallisto_hg38_k63/count.mtx -i ~/ref/hg38.k63.idx -e N_8009_kallisto_hg38_k63/count.ec.txt -o N_8009_kallisto_hg38_k63

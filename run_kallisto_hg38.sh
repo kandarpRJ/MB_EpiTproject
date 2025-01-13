@@ -1,0 +1,15 @@
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-1700_kallisto_hg38_k63/ 7316-1700.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-2227_kallisto_hg38_k63/ 7316-2227.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-2252_kallisto_hg38_k63/ 7316-2252.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-2322_kallisto_hg38_k63/ 7316-2322.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-2700_kallisto_hg38_k63/ 7316-2700.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-3510_kallisto_hg38_k63/ 7316-3510.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-438_kallisto_hg38_k63/ 7316-438.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-489_kallisto_hg38_k63/ 7316-489.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-670_kallisto_hg38_k63/ 7316-670.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-737_kallisto_hg38_k63/ 7316-737.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-906_kallisto_hg38_k63/ 7316-906.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o 7316-922_kallisto_hg38_k63/ 7316-922.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o N_4390_kallisto_hg38_k63/ N_4390.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o N_6321_kallisto_hg38_k63/ N_6321.fastq.gz
+kallisto bus -t 40 --long --threshold 0.8 -x bulk -i ~/ref/hg38.k63.idx -o N_8009_kallisto_hg38_k63/ N_8009.fastq.gz
