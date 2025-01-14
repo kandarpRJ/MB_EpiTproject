@@ -1,0 +1,14 @@
+{
+	"n_targets": 180388,
+	"n_bootstraps": 0,
+	"n_processed": 3103201,
+	"n_pseudoaligned": 1278722,
+	"n_unique": 104106,
+	"p_pseudoaligned": 41.2,
+	"p_unique": 3.4,
+	"kallisto_version": "0.51.1",
+	"index_version": 13,
+	"k-mer length": 63,
+	"start_time": "Mon Jan 13 18:36:17 2025",
+	"call": "kallisto bus -t 40 --long --threshold 0.8 -x bulk -i /home/pereralab/ref/hg38.k63.idx -o N_8009_kallisto_hg38_k63/ N_8009.fastq.gz"
+}
