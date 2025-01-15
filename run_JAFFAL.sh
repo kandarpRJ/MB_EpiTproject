@@ -1,0 +1,15 @@
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-1700.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-1700.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-2227.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-2227.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-2252.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-2252.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-2322.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-2322.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-2700.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-2700.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-3510.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-3510.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-438.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-438.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-489.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-489.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-670.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-670.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-737.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-737.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-906.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-906.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy 7316-922.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt 7316-922.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy N_4390.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt N_4390.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy N_6321.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt N_6321.fastq/
+~/tools/JAFFA-version-2.3/tools/bin/bpipe run ~/tools/JAFFA-version-2.3/JAFFAL.groovy N_8009.fastq.gz; mv jaffa_results.csv jaffa_results.fasta commandlog.txt N_8009.fastq/
