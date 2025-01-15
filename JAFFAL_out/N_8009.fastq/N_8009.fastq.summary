@@ -1,0 +1,5 @@
+transcript	spanning_pairs	spanning_reads	contig_break	chrom1	base1	strand1	chrom2	base2	strand2	gap	rearrangement	aligns	inframe	fusion_genes	exon1	exon2	known	classification
+81f03b22-57c7-4785-9fea-06940fa9393d	0	1	158	chr15	61229053	-	chr18	25092081	-	Inf	TRUE	TRUE	TRUE	RORA:ZNF521	11/11	3/8	-	PotentialTransSplicing
+7c563149-fbb6-4d97-8d46-73c710a0aa43	0	1	397	chr19	34767316	-	chr12	54286662	+	Inf	TRUE	TRUE	FALSE	ZNF599:HNRNPA1	2/4	10/11	-	PotentialTransSplicing
+4e3a1745-c328-45d0-a027-a7eb491bb2f6	0	1	148	chr2	99489817	-	chr2	229477253	-	129987.434	TRUE	TRUE	FALSE	REV1:DNER	23/23	7/13	-	PotentialTransSplicing
+fe72cb7c-de40-433b-9500-5d04a9109607	0	1	145	chr6	111562965	-	chr6	111503296	+	59.67	TRUE	TRUE	FALSE	TRAF3IP2:TRAF3IP2-AS1	2/9	4/4	-	PotentialTransSplicing
