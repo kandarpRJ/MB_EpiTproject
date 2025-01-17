@@ -1,0 +1,6 @@
+library(karyoploteR)
+regions <- import.bed("/media/pereralab/SSD/MB_epitranscriptomics/pileups_chm13v2/tmp.bed")
+regions2 <- import.bed("/media/pereralab/SSD/MB_epitranscriptomics/pileups_chm13v2/tmp2.bed")
+kp <- plotKaryotype()
+kpPlotRegions(kp, data=regions, r0=0, r1=0.5, data.panel = 1, col = "red")
+kpPlotRegions(kp, data=regions2, r0=0.5, r1=1, data.panel = 2, col = "darkblue")
