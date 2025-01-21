@@ -1,5 +1,0 @@
-sample,fusion genes,chrom1,base1,strand1,chrom2,base2,strand2,gap (kb),spanning pairs,spanning reads,inframe,aligns,rearrangement,contig,contig break,classification,known
-N_8009.fastq,TRAF3IP2:TRAF3IP2-AS1,chr6,111562965,-,chr6,111503296,+,59.67,0,1,FALSE,TRUE,TRUE,fe72cb7c-de40-433b-9500-5d04a9109607,145,PotentialTransSplicing,-
-N_8009.fastq,REV1:DNER,chr2,99489817,-,chr2,229477253,-,129987.434,0,1,FALSE,TRUE,TRUE,4e3a1745-c328-45d0-a027-a7eb491bb2f6,148,PotentialTransSplicing,-
-N_8009.fastq,RORA:ZNF521,chr15,61229053,-,chr18,25092081,-,Inf,0,1,TRUE,TRUE,TRUE,81f03b22-57c7-4785-9fea-06940fa9393d,158,PotentialTransSplicing,-
-N_8009.fastq,ZNF599:HNRNPA1,chr19,34767316,-,chr12,54286662,+,Inf,0,1,FALSE,TRUE,TRUE,7c563149-fbb6-4d97-8d46-73c710a0aa43,397,PotentialTransSplicing,-
